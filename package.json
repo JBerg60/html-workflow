@@ -1,0 +1,10 @@
+{
+	"name": "html_workflow",
+	"description": "Basic Gulp niceties for rapidly building stuff",
+	"version": "0.0.1",
+	"author": "John Huntjens",
+	"devDependencies": {
+		"gulp": "^3.9.1",
+		"browser-sync": "^2.23.6"
+	}
+}

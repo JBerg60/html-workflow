@@ -1,0 +1,57 @@
+html, body, div, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, form, fieldset, input, 
+textarea, p, blockquote, th, td, header, footer, nav { 
+	margin:0;
+	padding:0;
+}
+
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+
+ol, ul {
+	list-style: none;
+}
+
+blockquote, q {
+	quotes: none;
+}
+
+blockquote:before, blockquote:after, q:before, q:after {
+	content: '';
+	content: none;
+}
+
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+html, body {
+	height: 100%;
+}
+
+body {
+	background-color: darkslategrey;
+	color: white;
+	font: normal 15px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+}
+
+p {
+	line-height: 20px;
+	margin-bottom: 20px;
+}
+
+header {
+	min-height: 65px;
+	background-color: burlywood;
+}
+
+.content {
+	background-color: aqua
+}
+
+footer {
+	min-height: 30px;
+	background-color: darkcyan;
+}

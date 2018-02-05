@@ -1,13 +1,4 @@
-_build
-_tracks
+# MAC OSX shit
+.DS_Store
 
-opa-debug-js
-
-*.opp
-*.opx
-*.opx.broken
-*.dump
-*.api
-*.api-txt
-*.exe
-*.log
+node_modules/
