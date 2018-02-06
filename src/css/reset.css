@@ -26,32 +26,3 @@ table {
 	border-collapse: collapse;
 	border-spacing: 0;
 }
-
-html, body {
-	height: 100%;
-}
-
-body {
-	background-color: darkslategrey;
-	color: white;
-	font: normal 15px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
-}
-
-p {
-	line-height: 20px;
-	margin-bottom: 20px;
-}
-
-header {
-	min-height: 65px;
-	background-color: burlywood;
-}
-
-.content {
-	background-color: aqua
-}
-
-footer {
-	min-height: 30px;
-	background-color: darkcyan;
-}
