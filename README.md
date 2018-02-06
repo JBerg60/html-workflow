@@ -7,8 +7,8 @@ Simple website, showing html workflow
 - git, current version 2.14.3
 
 #### Workflow:
-1. clone the repository to your local computer.
-`git clone https://github.com/JBerg60/html-workflow.git`
+1. clone the repository to your local computer.<br />
+`git clone https://github.com/JBerg60/html-workflow.git`<br />
 A new folder with subfolders html-workflow will be created with all files
 
 2. update all node modules by running `npm install`
