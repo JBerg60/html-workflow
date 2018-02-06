@@ -9,14 +9,15 @@ Simple website, showing html workflow
 #### Workflow:
 1. clone the repository to your local computer.
 `git clone https://github.com/JBerg60/html-workflow.git`
-a new folder with subfolders html-workflow will be created with all files
+A new folder with subfolders html-workflow will be created with all files
 
 2. update all node modules by running `npm install`
 
 3. start the devellopment by running `gulp`
 This will stat a local web server, with browser relod.
 
-4. When done you can deploy files from the dist folder to the live website.
+4. When done you can deploy files from the `dist` folder to the live website.
 
 #### Notes:
 - packages can be added by `npm install --save-dev {package name}`
+- gulp can be called with parameters: `gulp clean build` 
